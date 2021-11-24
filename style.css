@@ -22,7 +22,7 @@
   }
   .dropdown-content a:hover {
     color: #FFFFFF;
-    background-color: #0066eb;
+    background-color: #178406;
   }
 h1{
     color: green;
@@ -41,6 +41,8 @@ marquee{
   margin: 70px;
   width: 500px;
 }
-h4{
-  margin: 80px;
+h3{
+  font-size: smaller;
+  text-align: left;
+  margin: 75px;
 }
