@@ -5,8 +5,8 @@
 #game{
     width: 400px;
     height: 500px;
-    border: 1px solid black;
-    margin: auto;
+    border: 5px solid black;
+    margin: 65px;
     overflow: hidden;
 }
 #character{
@@ -34,4 +34,10 @@
     position: relative;
     top: 100px;
     margin-top: -20px;
+}
+p{
+    margin: 65px;
+}
+.btn{
+    margin: 65px;
 }
